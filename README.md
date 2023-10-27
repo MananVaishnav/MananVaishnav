@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MananVaishnav
+- 👋 Hiii, jai siyaram🙏...
+-  I’m @MananVaishnav
 - 👀 I’m interested in Python Machine Learning and A.I.
 - 🌱 I’m currently learning Machine Learning. 
 - 📫 How to reach me - Follow Me on Instagram @_manan__22
